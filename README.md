@@ -1,2 +1,2 @@
-# Stuent-management-system
+# Student Management System
 Python-based CRUD student management system for academic project
